@@ -1,2 +1,2 @@
 # hw3_simple_css
-Simple css assignment
+Simple CSS assignment
